@@ -1,0 +1,44 @@
+imgkcl {
+    width: 100vh;
+    display: block;
+    margin: auto;
+    text-align: center;
+}
+
+li {
+    margin: 10px;
+}
+
+.mid {
+    text-align: center;
+    display: block;
+}
+
+.salah {
+    color: red;
+    font-style: italic;
+}
+
+.end {
+    display: block;
+    text-align: end;
+}
+
+.spasi {
+    display: block;
+}
+
+.aktif {
+    text-decoration: none;
+    font-weight: bold;
+    color: hotpink;
+}
+
+.loader {
+    width: 150px;
+    position: absolute;
+    top: 80px;
+    left: 337px;
+    z-index: -1;
+    display: none;
+}
